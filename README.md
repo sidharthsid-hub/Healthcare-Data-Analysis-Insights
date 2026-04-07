@@ -31,9 +31,9 @@ The final dashboard consolidates all key metrics into a single view:
 ## 📂 Project Structure
 - `/Data`: Contains raw CSV/Excel files (Medical Clean, Hospital Clean, etc.).
 - `/Dashboard`: The final Excel Workbook with the analysis and dashboard.
-- `Project_Documentation.pdf`: Detailed assignment requirements and project steps.
+- `https://drive.google.com/uc?export=download&id=1zelh7bZrE7F290QtTABHgHYn4B7JDbZO`: Detailed assignment requirements and project steps.
 
 ## 🚀 How to Use
-1. Download the `Healthcare_Analysis_Final.xlsx` file.
+1. Download the `https://docs.google.com/spreadsheets/d/1Jcfp8flHAA4ntNO0PBq2U9qe4KUOsb5p/edit?usp=sharing&ouid=112134774394179403177&rtpof=true&sd=true` file.
 2. Open it in Microsoft Excel.
 3. Use the **Slicers** on the "Dashboard" sheet to filter through different patient segments and see the charts update in real-time.
